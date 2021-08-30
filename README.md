@@ -7,7 +7,7 @@
 <!--- 👯 I’m looking to collaborate on ...-->
 - 🤔 I’m looking for help with Python project
 <!--- 💬 Ask me about ... -->
-- 📫 How to reach me: LinkedIn:-https://www.linkedin.com/in/shreenidhi-t-h-41400b197?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BcikHjoPGTY61FXlzgQ1CMA%3D%3D
+- 📫 How to reach me: shreemidhi1903@gmail.com
 <!--- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
