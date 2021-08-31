@@ -7,7 +7,7 @@
 <!--- 👯 I’m looking to collaborate on ...-->
 - 🤔 I’m looking for help with Python project
 <!--- 💬 Ask me about ... -->
-- 📫 How to reach me: shreemidhi1903@gmail.com
+- 📫 How to reach me: shreenidhi1903@gmail.com
 <!--- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
