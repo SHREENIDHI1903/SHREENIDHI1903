@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently Computer Science Enginner Student at NIEIT
-- 🌱 I’m currently learning Python,Dart
+- 🌱 I’m currently learning Python
 <!--- 👯 I’m looking to collaborate on ...-->
 - 🤔 I’m looking for help with Python project
 <!--- 💬 Ask me about ... -->
