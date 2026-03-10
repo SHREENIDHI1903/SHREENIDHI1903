@@ -51,12 +51,12 @@ I am a Bengaluru-based **Machine Learning Engineer** passionate about building s
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SHREENIDHI1903&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHREENIDHI1903&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shreenidhi1903&show_icons=true&theme=dark&cache_id=1" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreenidhi1903&layout=compact&theme=dark&cache_id=1" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHREENIDHI1903&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreenidhi1903&theme=dark&cache_id=1" />
 </p>
 
 ---
