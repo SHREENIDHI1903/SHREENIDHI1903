@@ -75,8 +75,8 @@ I am a Bengaluru-based **Machine Learning Engineer** dedicated to moving AI from
 ### 📊 Vital Signs & Impact
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreenidhi1903&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Shreenidhi's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreenidhi1903&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://metrics.lecoq.io/shreenidhi1903?base=header,activity,community,repositories,metadata&config.timezone=Asia/Kolkata" alt="Shreenidhi's Metrics" width="48%" />
+  <img src="https://metrics.lecoq.io/shreenidhi1903?base=&languages=1&languages.limit=8&config.timezone=Asia/Kolkata" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
