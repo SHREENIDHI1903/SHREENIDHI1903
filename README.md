@@ -52,10 +52,10 @@ I am a Bengaluru-based **Machine Learning Engineer** passionate about building s
 
 <p align="center">
   <a href="https://github.com/shreenidhi1903">
-    <img src="https://github-readme-stats.vercel.app/api?username=shreenidhi1903&show_icons=true&theme=radical&hide_border=true" alt="Shreenidhi's GitHub stats" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api?username=shreenidhi1903&show_icons=true&theme=radical&hide_border=true&v=1.0.1" alt="Shreenidhi's GitHub stats" height="180" />
   </a>
   <a href="https://github.com/shreenidhi1903">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreenidhi1903&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreenidhi1903&layout=compact&theme=radical&hide_border=true&v=1.0.1" alt="Top Languages" height="180" />
   </a>
 </p>
 
