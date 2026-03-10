@@ -35,13 +35,40 @@ I am a Bengaluru-based **Machine Learning Engineer** dedicated to moving AI from
 ### 🧪 Featured Research & Projects
 
 #### 🤖 [Bhasha Voice-Assisted Chatbot](https://github.com/SHREENIDHI1903/Bhasha-Voice-Assisted-Multilingual-Chatbot)
-A multilingual voice interface leveraging Whisper and LLMs to provide accessible AI interaction across language barriers.
+**Real-Time Multilingual Support Platform**
+- **Description:** A low-latency voice-to-voice translation system using **Meta MMS-1B** and **WebSockets**. Designed for seamless customer-agent interaction across 20+ languages.
+- **Tech Stack:** React, FastAPI, MMS-1B, Google TTS, Asyncio.
+- **Impact:** Robust RBAC for agent management and regional Indian language support.
+
+#### 📦 [AutoFeatureSelect (smartfeatureselectml)](https://github.com/SHREENIDHI1903/AutoFeatureSelect)
+**Automated Feature Engineering Engine**
+- **Description:** A modular Python package to automate feature selection, identifying the most impactful variables to reduce training time and boost model accuracy.
+- **Tech Stack:** Python, Scikit-learn, XGBoost, LightGBM.
+- **Impact:** Published on PyPI (`pip install smartfeatureselectml`) with a focus on production-ready Recursive Feature Elimination.
+
+#### 🏗️ [SmartSoilBuilder](https://github.com/SHREENIDHI1903/Smart_soil_analysis)
+**AI-Powered Geotechnical Decision Support**
+- **Description:** Bridges the gap between geotechnical data and construction strategy, providing actionable building recommendations based on ML soil classification.
+- **Tech Stack:** React, FastAPI, Python (SLM Data Analysis).
+- **Impact:** Real-time dashboard for visualizing soil stability and geotechnical health metrics.
+
+#### �️ [LinkedIn Job Alert Bot](https://github.com/SHREENIDHI1903/JOB_ALERT_AUTOMATION)
+**Intelligent Career Growth Automation**
+- **Description:** A high-reliability scraper that monitors LinkedIn for priority job postings, delivering real-time email notifications to stay ahead in the job market.
+- **Tech Stack:** Python, Playwright, SMTP, Pandas.
+- **Impact:** Bypasses manual searching with cookie-based authentication and automated SMTP alerts.
+
+#### 🔐 [Signature Verification Web App](https://github.com/SHREENIDHI1903/signature-verifier)
+**Deep Learning Document Authentication**
+- **Description:** A security-focused application using **CNNs** to verify signatures. Detects genuine vs. forged signatures with high precision.
+- **Tech Stack:** TensorFlow, Keras, React, FastAPI.
+- **Impact:** Live deployment for real-time stroke/pressure analysis and immediate authentication feedback.
 
 #### 🧠 [Brain Tumor Detection](https://github.com/SHREENIDHI1903/Brain_Tumor_Detection)
-End-to-end computer vision pipeline for medical imaging, utilizing deep learning to assist in early-stage diagnosis.
-
-#### 📈 [Strategic AI Consulting](https://github.com/SHREENIDHI1903)
-Architecting end-to-end ML solutions, from data ingestion pipelines (OCR/LayoutLM) to production-ready API deployment.
+**AI-Driven Diagnostic Support**
+- **Description:** End-to-end medical imaging tool that applies Deep Learning to MRI scans to assist researchers and clinicians in early tumor detection.
+- **Tech Stack:** React, FastAPI, Python, CNN.
+- **Impact:** Direct web-based inference pipeline for high-throughput medical image analysis.
 
 ---
 
