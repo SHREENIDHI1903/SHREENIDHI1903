@@ -51,8 +51,7 @@ I am a Bengaluru-based **Machine Learning Engineer** passionate about building s
 ### 📊 GitHub Stats
 
 <p align="center">
-  [![Shreenidhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreenidhi1903&show_icons=true&theme=radical&cache_id=12345)](https://github.com/shreenidhi1903)
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreenidhi1903&layout=compact&theme=radical&cache_id=12345)](https://github.com/shreenidhi1903)
+  [![Shreenidhi's Metrics](https://metrics.lecoq.io/shreenidhi1903?base=header,activity,community,repositories,metadata&languages=1&languages.limit=8&config.timezone=Asia/Kolkata)](https://github.com/shreenidhi1903)
 </p>
 
 <p align="center">
