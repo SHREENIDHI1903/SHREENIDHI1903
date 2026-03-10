@@ -51,18 +51,12 @@ I am a Bengaluru-based **Machine Learning Engineer** passionate about building s
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/shreenidhi1903">
-    <img src="https://github-readme-stats.vercel.app/api?username=shreenidhi1903&show_icons=true&theme=radical&hide_border=true&v=1.0.1" alt="Shreenidhi's GitHub stats" height="180" />
-  </a>
-  <a href="https://github.com/shreenidhi1903">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreenidhi1903&layout=compact&theme=radical&hide_border=true&v=1.0.1" alt="Top Languages" height="180" />
-  </a>
+  [![Shreenidhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreenidhi1903&show_icons=true&theme=radical&cache_id=12345)](https://github.com/shreenidhi1903)
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreenidhi1903&layout=compact&theme=radical&cache_id=12345)](https://github.com/shreenidhi1903)
 </p>
 
 <p align="center">
-  <a href="https://github.com/shreenidhi1903">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreenidhi1903&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shreenidhi1903&theme=radical&cache_id=12345)](https://github.com/shreenidhi1903)
 </p>
 
 ---
