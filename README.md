@@ -51,11 +51,15 @@ I am a Bengaluru-based **Machine Learning Engineer** passionate about building s
 ### 📊 GitHub Stats
 
 <p align="center">
-  [![Shreenidhi's Metrics](https://metrics.lecoq.io/shreenidhi1903?base=header,activity,community,repositories,metadata&languages=1&languages.limit=8&config.timezone=Asia/Kolkata)](https://github.com/shreenidhi1903)
+  <a href="https://github.com/shreenidhi1903">
+    <img src="https://metrics.lecoq.io/shreenidhi1903?base=header,activity,community,repositories,metadata&languages=1&languages.limit=8&config.timezone=Asia/Kolkata" alt="Shreenidhi's Metrics" height="400" />
+  </a>
 </p>
 
 <p align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shreenidhi1903&theme=radical&cache_id=12345)](https://github.com/shreenidhi1903)
+  <a href="https://github.com/shreenidhi1903">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreenidhi1903&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
